@@ -19,11 +19,13 @@
     <h5>Go to Browser and fire get-quote route</h5>
     http://127.0.0.1:8000/get-quote
     <h5>That's it.</h5>
-    <h3>Contact</h3>
+    <h3>Contact:</h3>
     <h4>Abhishek Gandhi</h4>
     <span><a href="mailto:abhishekgandhi63@gmail.com">Email</a></span>
     <span><a href="https://www.linkedin.com/in/abhishek-gandhi-8b766883/">LinkedIn</a></span>
     <span><a href="https://www.instagram.com/lara.web.dev/">Instagram</a></span>
     <span><a href="https://www.buymeacoffee.com/abhishekgandhi">Buy me coffee</a></span>
+    <span><a href="https://twitter.com/abgandhi1110">Twitter</a></span>
+    <span><a href="https://github.com/abhishekgandhi11">Github</a></span>
 </html>
 
